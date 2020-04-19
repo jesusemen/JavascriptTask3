@@ -13,7 +13,7 @@ else if( i%3 == 0){
 num.push('gi');//num[i] = "gi"; 
 
 }
-else if (i%5){
+else if (i%5 == 0){
   num.push('oh'); //num[i] = "oh";
  
 }
@@ -25,7 +25,7 @@ else if(i%2 && i%3 == 0){
             num.push('yu-gi'); //num[i] = "yu -gi";
 
 }
-else if (numi%2 && numi%5 == 0){
+else if (i%2 && i%5 == 0){
 num.push('yu-oh'); //num[i] = "yu-oh";
 
 }
