@@ -3,7 +3,7 @@ const num = [];
 
 
 function divisor(para) {
-for ( let i = 0; i <= para; i++) {
+for ( let i = 1; i <= para; i++) {
 
 if (i%2 == 0){
  num.push('yu');
