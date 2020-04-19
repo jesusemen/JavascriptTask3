@@ -41,4 +41,4 @@ else if (i%3 && i%5 == 0){
 } 
 console.log(num);
 }
-divisor(100);
+divisor(100); divisor(50);
